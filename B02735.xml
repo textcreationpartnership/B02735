@@ -1,0 +1,248 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dies nefastus; or A sermon preached on the publick fast day, for the cruell murther of our late soveraign, upon that unfortunate day January 30. / By Andrew Dominick, D.D. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02735</idno>
+            <idno type="STC">Wing D1842A</idno>
+            <idno type="STC">ESTC R175969</idno>
+            <idno type="EEBO-CITATION">51784489</idno>
+            <idno type="OCLC">ocm 51784489</idno>
+            <idno type="VID">174904</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02735)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174904)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2705:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dies nefastus; or A sermon preached on the publick fast day, for the cruell murther of our late soveraign, upon that unfortunate day January 30. / By Andrew Dominick, D.D. ...</title>
+               </titleStmt>
+               <extent>[9], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho Childe, and Leon. Parry,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Death and burial --  Sermons.</term>
+               <term>Fast-day sermons --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174904:1"/>
+            <pb facs="tcp:174904:1"/>
+            <p>Dies Nefaſtus; OR A SERMON Preached on the Publick FAST Day, FOR THE Cruell Murther Of Our Late SOVERAIGN, Upon that unfortunate day <hi>January</hi> 30.</p>
+            <p>By <hi>Andrew Dominick,</hi> D. D. and Rector of <hi>Stratfieldſay</hi> in <hi>Hampſhire</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho Childe,</hi> and <hi>Leon, Parry,</hi> 1662.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:174904:2"/>
+            <pb facs="tcp:174904:2"/>
+            <head>To the Worſhipful <hi>Matthew VVren</hi> Eſquire, one of the Secretaries unto the Lord Chancellour, and one of the Worthy Members of this preſent Parliament.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it may ſeem a preſumption in mee, to preſent ſo ſmall and poor a thing unto the world under your Name, yet I have ſuffi<g ref="char:EOLhyphen"/>cient reaſons, to Juſtifie my ſelf as to others therein; that albeit you have ſhewn your ſelf a Maſter in <hi>Hiſtorie,</hi> as alſo in a <hi>fluencie,</hi> and <hi>comptneſſe</hi> of <hi>Language,</hi> and <hi>ſtile,</hi> making all things firm, and uncontroleable even to your adverſarie: ſo that it was repor<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:174904:3"/>abroad (even then in thoſe daies) that ſure you had (which is well nigh a miracle in writing) converted him unto a righter Judgement. Yet ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eing this ſmall piece is a kinde of <hi>Historie,</hi> though, if there be any truth in me, but of few hours; com<g ref="char:EOLhyphen"/>poſed meerly, as you may ſee, out of a ſad memorie of things paſt, and is meerly <hi>hiſtorical;</hi> it being methought (conſidering the duty of the day) <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he beſt argument could poſsiblie be uſed, to any that had the leaſt ſhew of ingenuitie, to bring them to a heartie mourning, ſorrow, and re<g ref="char:EOLhyphen"/>pentance, to hear agen what evils have been done in theſe unfortunate times paſt; though I wanted ſome ſmall helps even for this, to do thoſe <hi>honourable perſons,</hi> and <hi>others,</hi> right
+<pb facs="tcp:174904:3"/>in naming <hi>them</hi> in particular, who ever <hi>ſuffered</hi> in the <hi>Cauſe.</hi> But it being (as I was ſaying) a matter of <hi>hiſtorie,</hi> beſides the particular application to the <hi>preſent occaſion,</hi> to whom ſhould I <hi>preſent</hi> it, but as in the <hi>Schools</hi> they uſe to do their <hi>exerciſe,</hi> even to him that is the very <hi>Master</hi> of the <hi>Sci<g ref="char:EOLhyphen"/>ence?</hi> and beſides, I have other Ob<g ref="char:EOLhyphen"/>ligations, you being the head of that loyal, and perſecuted <hi>Family,</hi> next to your Right Reverend Aged Father, the learned Lord Biſhop of <hi>Ely,</hi> that great Confeſſour of the Church of <hi>England.</hi> I having (as I was ſaying) been obliged to the <hi>other line</hi> of your <hi>Family</hi> manie yeares ſince, by the <hi>greateſt indearments</hi> that a <hi>Sober man</hi> can <hi>phanſie:</hi> how can I but be <hi>offering</hi> my <hi>reſpects,</hi> in tendring ſome ſigni<g ref="char:EOLhyphen"/>fication
+<pb facs="tcp:174904:4"/>of my <hi>obſervance</hi> unto you? Againſt what elſe may be ſaid, I have only this to anſwer in General, That <hi>Parents</hi> are wont to love their <hi>weakeſt Children</hi> moſt, and to ſeek for them the beſt favour they can get, it may be ſo perhaps with me, for I'le aſſure you, I have not been altoge<g ref="char:EOLhyphen"/>ther idle, and could prove it too, were it not for ſome trouble I find in this; by ſomething able of it ſelf to ſtand alone. But if, moſt worthy Sir, you can <hi>pardon</hi> this preſent <hi>Bold<g ref="char:EOLhyphen"/>neſſe</hi> of mine; you ſhall adde to the other <hi>Obligations</hi> in my account; and I ſhall bee bound to pray for your <hi>Happineſs,</hi> and remain</p>
+            <closer>
+               <signed>Your humble Servant, <hi>Andrew Dominick.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:174904:4"/>
+            <head>AN ADVERTISEMENT TO THE READER.</head>
+            <opener>
+               <salute>GOod Chriſtian Reader,</salute>
+            </opener>
+            <p>Underſtand that in this my Sermon, it was not my aime to per<g ref="char:EOLhyphen"/>string the truly godly, but onely thoſe Counterfeits, that brought on things to that wicked paſs; I doe not mean the truly godly, I did diſclaim that, as you may ſee in the Sermon, for many ſuch I found about me, to my comfort, in the dayes of my trouble, who ſhewed their Loyalty even therein, that notwithſtan<g ref="char:EOLhyphen"/>ding I was in the last perſecution accuſed for my ſer<g ref="char:EOLhyphen"/>vices done the late King, yet did thoſe help me what they could, and ſome of them profeſſed in private, That there were indeed many who profeſſed much, but could doe no good, but hurt. Theſe were grave,
+<pb facs="tcp:174904:5"/>ſober, godly people, and (for ought I could ever per<g ref="char:EOLhyphen"/>ceive) loyal in their hearts to their King, and ſuch there are therefore, and God forbid that I, or any one ſhould make godlineſſe the Mark to know who were, or are diſloyal: a grace which includeth farr better things, and by which I am perſwaded we may eſcape (through Gods mercy) any the like evills agen, let not then Religion, or Godlineſſe fare the worſe, for having been abuſed, only warily distinguiſh for the future, try every ſpirit, ſtudy the peace of the Church and State; pray for it, and ſeek it charitably, and God bleſſe thy endeavour, <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:174904:5"/>
+            <head>DIES NEFASTUS. OR A Sermon Preached on the Publick Faſt Day, for the Cruell Murther of our late SOVERAIGN.</head>
+            <epigraph>
+               <q>
+                  <bibl>PSALM. 22.12, 13.</bibl>
+                  <p>Many Bulls have compaſſed me: ſtrong Bulls of <hi>Baſhan</hi> have beſet me round. They gaped upon me with their mouthes, as a ravening and a roar<g ref="char:EOLhyphen"/>ing Lion. I am poured out like water, and all my bones are out of joynt.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N the 2 <hi>Corinth.</hi> 12. chap. 10. verſ. we read of St. <hi>Paul,</hi> that he took pleaſure in infirmities, in reproaches, in ne<g ref="char:EOLhyphen"/>ceſſities, in perſecutions, in diſtreſſes for Chriſts ſake, and with the ſame great mind ſeemed He to be endow<g ref="char:EOLhyphen"/>ed, for whom we mourn this day; That Royal Per<g ref="char:EOLhyphen"/>ſon, and Great Prince, how meekly, how patiently did he take it to conflict with the greateſt affronts
+<pb n="2" facs="tcp:174904:6"/>and calamities in the world; but God is moſt potent and can uphold his Servants, (in ſpite of Satan and all he can inſpire, to moleſt, provoke, and exaſperate his Servants) that in their Tryalls and Sufferings, neither the Devil himſelf, nor all his Inſtruments, ſhall be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble with their unjuſteſt doings to provoke his Beloved, and dear Servants, and Children unto any leſſe approved paſſage in words or geſture, in all their Sufferings; which thing, among all that ever ſuffered (next to our Saviour himſelf) 'tis conceived (by all compariſons) none more perfectly, exact<g ref="char:EOLhyphen"/>ly, and clearly manifeſted, than our moſt Gratious and bleſſed Prince of ſweeteſt Memory, now in Heaven; of which perhaps I may ſpeak more in the handling of this Text.</p>
+            <p>
+               <hi>Many Bulls have compaſſed me, ſtrong Bulls of</hi> Baſhan <hi>have beſet me round. They gaped upon me with their mouthes, as ravening am a roaring Lion. I am pour<g ref="char:EOLhyphen"/>ed out like water, and all my bones are out of joynt.</hi>
+            </p>
+            <p>In which words we have a great danger declared, (obſerve) even that moſt Holy King and Prophet was in, which ſorely troubled him. Violent and un<g ref="char:EOLhyphen"/>reaſonable people, and many of them too, <hi>Many Bulls of</hi> Baſhan <hi>have compaſſed me;</hi> And this was no ſmall trouble if we conſider, 1. Their Hoſtility; the malevolency of thoſe wicked Enemies, which the Holy Ghoſt expreſſeth here by thoſe Savage and Ravening Creatures, wilde Bulls, and hungry Lions, ſuch were thoſe who could find in their hearts to purſue our Holy and Innocent <hi>David,</hi> whom no<g ref="char:EOLhyphen"/>thing could ſatisfie (they were ſo wickedly reſolved) but his deareſt Life, end, moſt pretious Blood, that
+<pb n="3" facs="tcp:174904:6"/>ſo having ſlain (as it is in the parable) the Lord of the Vineyard, they might riſe and take poſſeſſion. Perſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cution, you know, may be carried on, either <hi>mode cruento,</hi> or <hi>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cruento,</hi> they were too well verſed in both kinds, ſpeaking like him in the Book of <hi>Wiſ<g ref="char:EOLhyphen"/>dom,</hi> ch. 2.19, 20. verſes. <hi>Let us examine him with deſpitefullneſſe, and let us condemn hims with a ſhamefull death.</hi> Here I could ſpeak of the <hi>Apoſtles,</hi> and other <hi>Saints</hi> believing in <hi>Chriſt,</hi> how ſome of them were beheaded, and others crucified, others hanged on a tree, others killed with the ſwords; moſt ſad ſtories, all yet even to be paralleld by theſe times in our me<g ref="char:EOLhyphen"/>morie. <hi>Euſebius</hi> tells us of a perſecution under thoſe monſters of Men, <hi>Diocleſian,</hi> and <hi>Maximinian,</hi> wherein 17000 Chriſtians were ſlain with the ſword<note n="*" place="margin">V. D Jo<g ref="char:EOLhyphen"/>han. Pap<g ref="char:EOLhyphen"/>pas in E<g ref="char:EOLhyphen"/>pist Hiſt. Eccleſ.</note> And an other tells of 900000. in the ſpace of 30. years, from 1550. to 1580. in the <hi>Low Countries, England Italy,</hi> and <hi>Spaine,</hi> that were miſe<g ref="char:EOLhyphen"/>rably butchered, for the Religion we now profeſs<note n="*" place="margin">D. Sac<g ref="char:EOLhyphen"/>cus 2 part poſt Doni. <hi>8.</hi> Tr.</note>. But what is this to the cruelties our eyes have ſeen, or might have ſeen, in a leſſer ſpace, both of ground, and time? Oh how many thouſands (beloved?) yea, who is able to number them that went to wrack by the means of that unnatural Rebellion of late years amongſt us? Nay men of principalleſt quality, and beſt faſhion amongſt us<note n="*" place="margin">Here think up<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Nobles, Knights, &amp; Gent.</note>. Nay, our dearl highly honoured and beloved King <hi>compaſſed by thoſe Bulls of Baſhan,</hi> and deſtroyed in open ſight, at his own Doors, his poor loyal people ſighing, and help<g ref="char:EOLhyphen"/>leſſe Spectators. O horrid and unheard of cruelty! O bloudy <hi>Catalines!</hi> Could no bloud ſatisfie, after ſo many noble ſtreams your cruel hands had made,
+<pb n="4" facs="tcp:174904:7"/>but the blood of your Sovereign? what vipers? what tygers? what bulls of <hi>Baſhan</hi> were theſe? cer<g ref="char:EOLhyphen"/>tainly <hi>David</hi> could not more bitterly entitle his ma<g ref="char:EOLhyphen"/>licious enemies, then we may juſtly thoſe of the late King, many are the adverſaries which roſe up againſt him may <hi>Iſrael</hi> now ſay, many are the ad<g ref="char:EOLhyphen"/>verſaries, and they fought againſt me with cruel hatred may <hi>Iſrael</hi> alſo ſay, and who were thoſe ad<g ref="char:EOLhyphen"/>verſaries that roſe up ſo violently againſt <hi>David?</hi> not ſtrangers, but his own Subjects, his own vaſſalls, and ſervants, this aggravated the matter; had it been a ſtranger (as he ſaid elſewhere) he could have borne it with much more patience, but our late Sove<g ref="char:EOLhyphen"/>reign was afflicted by his own people, inſolently handled, by rebells moſt barbarouſly murthered; yet bore it with unheard of patience, ſweetly coun<g ref="char:EOLhyphen"/>ſelling and adviſing as if he had been not ſo much to die <hi>by them,</hi> as <hi>for them;</hi> Oh beloved, let us be<g ref="char:EOLhyphen"/>waile that wicked fact, let us lament that ever <hi>En<g ref="char:EOLhyphen"/>gliſh-man</hi> ſhould prove ſo unnatural, ſo cruel, ſo in<g ref="char:EOLhyphen"/>humane as to riſe up againſt his <hi>own, own own</hi> na<g ref="char:EOLhyphen"/>tural Prince. What a diſgrace by that barbarous fact, did thoſe vipers bring upon the Nation? 'tis ſtoried of vipers, that grown to maturity in their dams belly, they gnaw a hole, and ſo thoſe ſer<g ref="char:EOLhyphen"/>pents come forth into the world; juſt ſo did thoſe Rebells of old, grown up to ſome ſtrength gnaw a hole thorow the <hi>bowels</hi> of thoſe that <hi>bred</hi> them, and deſtroyed the <hi>Patrem Patriae,</hi> and had well nigh mur<g ref="char:EOLhyphen"/>thered their Countrey; beloved, for this ſhould we mourn this day, for this lament, abhorring all thought of the leaſt refreſhment; <hi>For know ye not
+<pb n="5" facs="tcp:174904:7"/>that a great prince fell in Iſrael this day,</hi> let us there<g ref="char:EOLhyphen"/>fore mourn, let us expreſs and ſhew our ſadneſs be<g ref="char:EOLhyphen"/>fore God and man; and let this be <hi>Dies Nefaſtus,</hi> an unlucky day, a day of <hi>darkneſs</hi> for ever, a day of <hi>blackneſs</hi> and <hi>gloomineſs;</hi> let no joy or gladneſs be heard in our ſtreets; but rather paleneſs in our faces, and ſorrow perceived in our hearts on this day for ever. Let us alſo by prayers and godly readings humble our minds at the footſtool of Divine Maje<g ref="char:EOLhyphen"/>ſty, that he may be intreated concerning the blood of our gracious Sovereign, that ſome of the chief actors having been hung up before the Lord, the kingdom may be guiltleſs before the Lord for ever, <hi>Oh hear us we beſeech thee O Lord, and make not inquiſition upon the guiltleſſe for blood, but let the blood of thoſe which ſpilt that moſt pretious blood, ſatisfie thy ſore diſpleaſure for ſhedding of that blood.</hi>
+            </p>
+            <p>
+               <hi>Auſtin</hi> tells us, <hi>de Civit.</hi> 26. there ſha<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owards the end of the world ſuch Perſecutions as never was, and truly ſuch dayes had we (within theſe few years paſt) when thoſe Bulls of <hi>Baſhan</hi> were got looſe, what ſwarms then of Locuſts and Caterpillars were every where, upon every green thing.</p>
+            <p>
+               <hi>Zozomen</hi> and <hi>Theodoret</hi> tell us, That the Perſecu<g ref="char:EOLhyphen"/>tions were not alwayes with preſent death, to hang, or ſhoot them forthwith, but ſometimes to macerate them firſt in Priſons, and to afflict them there with expectation of death, more intollerable then death it ſelf. So was the Church afflicted in the Primitive times, and when thoſe Bulls of <hi>Baſhan</hi> were looſe, (who ever eſcaped) the Clergy ever went to wrack;
+<pb n="6" facs="tcp:174904:8"/>in the Primitive Perſecution, <hi>John</hi> the Baptiſt was B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>headed, <hi>Peter</hi> and <hi>John</hi> we read were Impriſoned, <hi>Acts</hi> 4.3. S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Peter</hi> and <hi>Andrew</hi> were Crucified, St. <hi>Bartholomew</hi> Skin'd alive, St. <hi>Luke</hi> Hanged, <hi>Ignatius</hi> caſt to Lions, the Prophet <hi>Michael</hi> fed with bread and water, others ſpoyled of their Goods and E<g ref="char:EOLhyphen"/>ſtates, and ſent away into Baniſhment. But with us many thouſands of the poor Commonalty were ſold into perpetual ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>very, to Digge under ground in Mines, all the dayes of their Lives: Many were de<g ref="char:EOLhyphen"/>prived, <hi>Zozom.</hi> ſaith oft times, of their civil Ho<g ref="char:EOLhyphen"/>nours, and the Churches in many places ſhut up, the Miniſters proſcribed, and turned out, Church Reve<g ref="char:EOLhyphen"/>nues ſcamled amongſt needy and bankrupt people, to encourage others, ſuch like, to riſe up and accuſe their Godly Miniſters; and now I beſeech you doth not this ſeem like the Hiſtory of our times, ſaving that we had ſomething yet worſe, which grew out of theſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and that was the damnable mask of Religion and Godlineſſe, then which there can be nothing more deſireable, when true and ſincere; For it is not my thoughts (I bleſſe God for it) to ſpeake, or hint the leaſt in way of diſcountenancing of true Religion and Godlineſſe, or to diſcourage or balke any in the ſincere practice thereof, no it were better I profeſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t my tongue ſhould cleave to the roofe of my mouth. No, (my beloved Brethren) go on I beſeech you in all Sinceritie, and Truth, both to profeſſe, and practice alſo, not in words onely, but in deeds alſo, f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r there is nothing more beneficiall, nothing more comfortable in the end, then to be able to ſay with the Holy Father, <hi>Egredere meâ anima,</hi>
+               <pb n="7" facs="tcp:174904:8"/>go forth my ſoul, go forth with chearfulneſſe to meet thy gratious Lord, whom thou haſt (through his grace) ſerved ſo many years; Then nothing is more deſireable then Religion, but then I mean to note it alſo that nothing is more miſchievous, when feigned, and counterfeited, and what was more fre<g ref="char:EOLhyphen"/>quent? 't was that great Mask the prime Contrivers of our Ruine walked in themſelves, and it was that they loved to ſee their Imps to imitate them in, ſo that if the common'ſt<note n="*" place="margin">So it was with my ſelf.</note> Strumpet (in fame) could but ſcruple at the word Temple, or Church, or Al<g ref="char:EOLhyphen"/>tar, ſhe was Godly enough to accuſe her Miniſter for a Scandalous Perſon. Oh the Hypocriſie of thoſe times, that Religion and Godlineſſe it ſelf ſhould be ſo abuſed, to be made the Stalking-horſe for Sacrilege, Robbery, and Theft, and that the ex<g ref="char:EOLhyphen"/>quiſiteneſſe of Villany ſhould grow to that ſtrength, as to infect the World for many years after, if it be not luſtily obſerved by us, and the World made ſometimes aſhamed. <hi>Quis tulerit Gracchos?</hi>
+               <note place="margin">Juven<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Satyr. <hi>10.</hi>
+               </note> ſaid the Poet, who is able with tollerable patience to ſee men ſuch proficients in Villany, that they can ſhift the Scene, and be Knaves on both ſides, grow as con<g ref="char:EOLhyphen"/>fident with whom they have new<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y inſinuated, to do miſchief by them, as ever they did, or threatned heretofore by the contrary. Theſe be pure youths indeed, and would be uncaſed a little to appear in their own colours, theſe be thoſe Bulls of <hi>Baſhan</hi> that can breed diſquiets, and through all bounds of Law and Right, paſture up<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n men at their pleaſure: Certainly <hi>Davids</hi> Perſecution was very great, but our <hi>Davids</hi> much more, it we conſider the Hoſtility
+<pb n="8" facs="tcp:174904:9"/>of it, either to Himſelf, Church, or Loyal people; or if we conſider the Plurality thereof, <hi>David</hi> com<g ref="char:EOLhyphen"/>plained of many Bulls, 'twas not any one that could have compaſſed him, but they were many, he ſpeak<g ref="char:EOLhyphen"/>eth of many, of all his Perſecutors, <hi>Many Bulls of</hi> Ba<g ref="char:EOLhyphen"/>ſhan, <hi>yea ſtrong Bulls compaſſed me;</hi> ſo it is uſually; the State is like a Ship, and the unruly Multitude like the Sea, which if by any means a leake be ſprung, will pour in, to the endangering of all; After <hi>David</hi> was oppoſed with an Army, the very abjects could ſhake their heads at him, and many troubles followed one upon another; ſo beloved, when our bewailed King was compaſſed on every ſide, how did the miſchiefs on every hand increaſe the Reve<g ref="char:EOLhyphen"/>rend Fathers pulled down, and Canting falſe Prophets ſet up, petty Tyrants, like young ſprouts, ſtarted up every where out of the great root of Tyranny above, many but (to domineer over their Clergy, and have of his livelihood as they pleaſed) had their wayes they gloried in, to do him miſchief at pleaſure, and if <hi>Ariſtotle</hi>'s rule in moral Philoſophy be true, <hi>Quic<g ref="char:EOLhyphen"/>quid per amicos, aliqualitèr per nos,</hi> that what we do by friends, we may be ſaid to do (in ſome ſort) our ſelves, then were ſome, and of ſuch faſhion too, as ought to have ſcorned ſuch things, no honeſter then they ſhould be, and yet beloved theſe were not half the evils of thoſe dayes, which came upon us, with<g ref="char:EOLhyphen"/>out all queſtion, through the untimely loſs of our gracious Sovereign; then did they ſlander and re<g ref="char:EOLhyphen"/>proach the foot-ſteps of the Lords Annointed, then was the Orthodox faith exploded, the graveſt Mini<g ref="char:EOLhyphen"/>ſters proſcribed, and many of the Rable yet, for the
+<pb n="9" facs="tcp:174904:9"/>contempt was poured out on Church men, can ſcarce yet entertain a juſt reſpect; but the ſervant is not above his Lord, there were who ſaid Chriſt had a devil, <hi>Joh.</hi> 8.48. and in the time of <hi>Conſtantine</hi> the Emperour, the truly Orthodox were called of the <hi>Arrians, Homouſians, Theod.</hi> lib. 1.4. <hi>Auſtin</hi> was called of the <hi>Palagians</hi> a <hi>Manichee,</hi> and as <hi>Ruf<g ref="char:EOLhyphen"/>fin,</hi> lib. 1.17. <hi>Athenatius</hi> was called a <hi>Conjurer,</hi> that they might deprive him of his Biſhoprick; nay they Excommunicated the moſt <hi>Orthodox partie,</hi> and denyed them Chriſtian burial when they were dead. <hi>Lord whither will not the petulant rage, and madneſſe of men carry them, when once let looſe?</hi> Government is a precious thing, that diſtinguiſheth us from beaſts, and makes us to live like men, nay like honeſt and good men; which, if let looſe, our late times ſhew what beaſts men will become, Bulls of <hi>Baſhan,</hi> and rave<g ref="char:EOLhyphen"/>ning <hi>Lions;</hi> the holy Ghoſt thinks fit expreſſions to intimate their purpoſes, and practices, that once ſet themſelves againſt Law and Supreme authority. The Leaders and inſtigators unto that evil are in Gods account, and all reaſon ſhews in a Common<g ref="char:EOLhyphen"/>weal, as <hi>wilde Bulls,</hi> and <hi>ravening Lions,</hi> drawing a world of <hi>evils</hi> after them, if not timely prevented, and diſcreetly avoided by all. For as <hi>Lawes</hi> are the <hi>proper fences,</hi> and <hi>bounds</hi> of our <hi>properties,</hi> and <hi>rights:</hi> ſo is the <hi>Soveraign power</hi> the <hi>ſhelter,</hi> and <hi>preſervation</hi> of the <hi>Law:</hi> As therefore is the <hi>loſſe</hi> of <hi>Law,</hi> ſuch is the utimely deſtroying of the rightfull <hi>Sove<g ref="char:EOLhyphen"/>raign,</hi> which muſt needs draw after it (as we not ma<g ref="char:EOLhyphen"/>ny years ſince w<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fully experienced) multitude of
+<pb n="10" facs="tcp:174904:10"/>evils. So that we may this day weep for our ſelves, as Chriſt told the people of the Jewes, <hi>Weep not for mee, but weep for your ſelves, that God may avert the judgement due unto this land, for that most horrid and wicked fact committed on this day.</hi> Weep ye that ſo much i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nocencie, uprightneſſe, and juſtice ſhould fall, by ſuch guilty, and treacherous hands. Neither may ye wonder (Beloved) that God would let looſe thoſe <hi>bulls of Baſhan,</hi> upon his <hi>David,</hi> upon ſo good a King; his beſt Servants ate fitteſt to make greateſt Champions, as ableſt through greateſt graces, to ſtand out moſt nobly in the cauſes of God; And be<g ref="char:EOLhyphen"/>ſide Chriſt himſelf went this way to heaven, and it behoveth thoſe who are moſtly his members, to be made moſt conformable unto him, and was not Chriſt betrayed too and ſold, and are there not many who have betrayed him over again in his members, an have gone, like <hi>Judas,</hi> unto the perſecutors and ſaid, <hi>What will ye give me, and I will deliver him unto you?</hi> And now, beloved, Obſerve agen who is it in the text that ſaith, <hi>have compaſſed me, mee;</hi> was it not <hi>David?</hi> Holy <hi>David,</hi> a <hi>King,</hi> and a <hi>Prophet, a man after Gods own heart,</hi> 1 Sam. 13, 14, 16, 13. <hi>to whom was promiſed the bleſsing,</hi> Acts 13.23. who ſpake by the holy Ghoſt; yet ſo it was, that God ſuffers him to be in that manner compaſſed with Bulls and Lyons, <hi>Many Bulls have compaſſed me, ſtrong Bulls of</hi> Baſhan <hi>beſet me round about.</hi>
+            </p>
+            <p>Whence we may obſerve, That the afflictions of good men, are notes rather of love, then diſpleaſure of the Almighty, <hi>for whom the Lord loveth, he afflict<g ref="char:EOLhyphen"/>eth:</hi>
+               <pb n="11" facs="tcp:174904:10"/>and ſo he doth the <hi>wicked</hi> too, but in a different manner, and to a different end, they find not that com<g ref="char:EOLhyphen"/>fort in it, nor that amendment by it, as do Gods Ser<g ref="char:EOLhyphen"/>vants; <hi>wicked men</hi> are ſeldom the better for any <hi>croſs,</hi> or at beſt of no long continuance: 'Tis true, 'tis ſaid of <hi>Ahab, Seeſt thou not how Ahab humbleth himſelf?</hi> But yet a little after we read him threatning, and ſcou<g ref="char:EOLhyphen"/>ling at Gods Prophet for telling him the truth; but gracious hearts are highly every way improved by troubles, <hi>Before I was afflicted, I went aſtray,</hi> ſaith Da<g ref="char:EOLhyphen"/>vid, <hi>but now I have kept thy word;</hi> So then afflictions as they are arguments in Gods Servants of more good<g ref="char:EOLhyphen"/>neſs: ſo are they of more love, and therefore are they to be the more condoled, and lamented in their ſuf<g ref="char:EOLhyphen"/>ferings, by how much their tranſlation hence (what way ſoever) may be for their own joy, and comfort above, but our miſery in their loſſe, or manner of loſſe here below. Then I lay you down this doc<g ref="char:EOLhyphen"/>trine, That it is moſt meet (according to command) that we mourn this day for the untimely death of our late King, for I may ſay with <hi>David,</hi> 2 Sam. 3.38. <hi>Know ye not that a great Prince fell on this day in</hi> Iſrael? Nay I have to obſerve farther, That the Church of God may be ſometimes deprived of ſuch heads, as would have been very much for her behoofe to have retained: for what greater Prince then <hi>Ioſhua</hi> for whom God fought, at whoſe prayer the Sunne, and Moon ſtood ſtill, unto whom God ſent an Auxi<g ref="char:EOLhyphen"/>liarie of <hi>Haile</hi> from heaven, to vanquiſh his <hi>enemies,</hi> Joſh. 20. for whoſe ſake the water of <hi>Jordan</hi> gave place fox him to go over, yet this <hi>Joſhua</hi> was taken
+<pb n="12" facs="tcp:174904:11"/>away, and the people of God loſt ſo good a Prince, which would have been in all likelihood, much for their behoof, to have k<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pt. What ſhall I ſay of <hi>Da<g ref="char:EOLhyphen"/>vid,</hi> of <hi>Abraham,</hi> and <hi>Sampſon,</hi> they are all dead; and which is more yet, <hi>Aliquando triſti aliqua morte ex<g ref="char:EOLhyphen"/>tinguuntur,</hi> they are ſometimes taken off with un<g ref="char:EOLhyphen"/>timely, and to be extreamly lamented deaths: and yet very good Kings too. As for example, <hi>Ioſias</hi> whoſe heart was tender, and trembled at the word of God, and rent his clothes, 2 <hi>Kings</hi> 22.11. of whom it is ſaid 2 <hi>Kings</hi> 23.25. That there was no King before or after him that turned ſo his heart to the Lord his God; yet was he untimely ſl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in at <hi>Megiddo,</hi> and by an un<g ref="char:EOLhyphen"/>circumciſed hand of <hi>Pharoah Necho</hi> King of <hi>Aegypt:</hi> Wherefore (beloved) let it not ſuggeſt evil thoughts of God, or our Prince unto us, that this hapned as on this day, God hath his reaſons for it, and he would humble us, we had ſinned queſtionleſs, and therefore God ſuffered us to be robbed of ſo great riches we had in our late King, that we might be puniſhed in the loſs, let us not then preſume any evil of him, for otherwiſe muſt we ſuſpect evil of good <hi>Joſias,</hi> whom the Scri<g ref="char:EOLhyphen"/>pture highly commends, and yet ſo untimely ſlain; Let us then mourn for our ſins and that will pleaſe God I am ſure. Let us lament, and ſay with the Prophet <hi>Jeremiah</hi> in the 5th of his <hi>Lamentations, verſ.</hi> 16. <hi>The Crown is fallen from our head, woe unto us that we have ſinned.</hi> And as at the 40 verſe, <hi>Let us ſearch and try our wayes, and turn again unto the Lord;</hi> Let us lift up our hearts and hands unto God in the heavens; We were deeply wounded through our
+<pb n="13" facs="tcp:174904:11"/>Soveraign, but he<note n="*" place="margin">Co<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neli<g ref="char:EOLhyphen"/>us me e<g ref="char:EOLhyphen"/>vaſit ſaid the Tyrant Nero. Tacit.</note> eſcaped through the loſſe of him, lay groaning under heavie oppreſſions, due puniſhments for our ſins: But now it hath pleaſed Almighty God (bleſſed be his holy name) to reſtore agen (as much as may be) our gra<g ref="char:EOLhyphen"/>cious and deſired Soveraign, in his beloved Son, our preſent and good King, the beſt of Princes. But let us not forget the dutie of this day, to <hi>weep,</hi> to <hi>mourn,</hi> to be <hi>afflicted,</hi> to <hi>lament</hi> the <hi>fall</hi> of our former dear Soveraign, and to be able to ſay with the Prophet, <hi>Lamentations</hi> the 3. <hi>v.</hi> 48. <hi>Mine eyes runneth down with rivers of water, for the deſtruction of the daughter of my people.</hi> And with the Prophet, <hi>Let us wiſh for a fountain of tears, to weep day and night for the ſlain.</hi> O let us mourn this day, as 'tis ſaid of <hi>Joſeph,</hi> and his brethren, for his Father <hi>Iſrael, that they mourned with a very great and ſore lamentation,</hi> that even thoſe <hi>Ca<g ref="char:EOLhyphen"/>naanites</hi> amongſt us may ſay, <hi>This is a very grievous mourning to the Loyaliſts.</hi> And let us (beloved) give thanks to God for our Dear Soveraign that now is, who (as out of the <hi>Aſhes</hi> of that <hi>Phoenix,</hi>) happily is returned to raign agen his Father over us, and to de<g ref="char:EOLhyphen"/>liver us from innumerable evils, and to reſtore us all the bleſſings of peace, for which <hi>the Lord bleſſe him,</hi> as <hi>Solomon</hi> prayeth for himſelf, <hi>with wiſdom and pru<g ref="char:EOLhyphen"/>dence: And the Lord bleſſe him moreover</hi> (as he added unto his <hi>Solomons</hi> deſire) <hi>with riches and honour, and the Lord be with him in his going forth, and comming in.</hi>
+            </p>
+            <p>And let it repent us in particular this day, let it re<g ref="char:EOLhyphen"/>pent us of our Sins, let us reſolve upon amendment of <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and let us not conſecrate ſuch dayes to <hi>Bacchus,</hi>
+               <pb n="14" facs="tcp:174904:12"/>and delights, but to God, let not thoſe miſcreants gather encouragement from their<note n="*" place="margin">Tis ſaid of Satan, be can turn him<g ref="char:EOLhyphen"/>ſelf into an Angel of Light.</note> 
+               <hi>Devilliſh</hi> holineſs for that any of us ſeem to have none, but let us all be as really religious, as they would ſeem to be: l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t us indeavour to grow in faith, and all ſpiritual graces, and be conſtant in hope, and perſevere in obedience, and be Zealous in good works, which make for the Worſhip, and Glory of God.</p>
+            <p>And the Lord grant we may induce him by our prayers this day, to turn away his wrath and juſt diſpleaſure from us. <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174904:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
